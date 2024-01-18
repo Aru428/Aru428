@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20👋&fontSize=80" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld!%20👋&fontSize=50&animation=twinkling)
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 
@@ -33,10 +33,12 @@
 
 <br><br>
 
+<div align="center">
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aru428&show_icons=true&theme=default)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aru428&layout=compact)                      
 
+</div>
 
 <!--
 **Aru428/Aru428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

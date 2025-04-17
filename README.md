@@ -36,7 +36,7 @@
 
 <div align="center">
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aru428&show_icons=true&theme=default)
+  <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aru428&show_icons=true&theme=default)-->
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aru428&layout=compact)                      
 
 </div>

@@ -1,5 +1,5 @@
-![header]Hi there👋
-
+<h2 align="center">Hi there👋</h2>
+<br>
 <h3 align="center">✨ Tech Stack ✨</h3>
 
 <div align="center">

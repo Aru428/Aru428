@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white">
@@ -40,6 +40,8 @@
 - 매일 수집되는 공연 데이터를 외부 ID 기준 upsert로 중복 없이 적재
 
 `Java 17` `Spring Boot` `MySQL` `Redis` `Flyway` `AWS` `Docker` `GitHub Actions`
+
+<br>
 
 ### [WhyNaGo](https://github.com/neogul-neogul/WhyNaGo) | 2026.07 ~ 2026.08
 CS 문제에 답하면 "왜?"를 이어 묻는 꼬리질문으로 개념을 깊게 공부하는 서비스 ([why-na-go.vercel.app](https://why-na-go.vercel.app))
